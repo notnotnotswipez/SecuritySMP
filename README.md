@@ -16,6 +16,8 @@ The computer has multiple features, which include a:
 - A terminal window, where you can DDoS other players with computers and find an aproximate location. (Yes its unrealistic I know but like, cmon, its Minecraft.)
 - Camera interface, players can access their placed cameras through this.
 
+The computer cannot be broken when placed, only allowed players can access this.
+
 # Defensive Measures
 - Cameras, can be accessed through the computer
 - A key, which can lock doors and chests (Key becomes linked to whatever you locked)
@@ -30,8 +32,13 @@ Money is currently only used for the shop in the computer. Players need to have 
 All money is physical, in one dollar bills. The limit for players to hold is $2070.
 
 - /bal - Shows how much money you currently have in your inventory.
-- /givemoney <player> <amount> - Gives player money.
+- /givemoney player amount - Gives player money.
 
 # Heads
 Players killed with swords will drop their head. This head will be good for three IRL days, until then, it will be usable on eyescanner doors. When the head rots, it turns into
 a zombie skull.
+  
+# Teams
+All owner exclusive things are bypassed if the player is on a team owned by the owner of the object they are interacting with.
+
+- /team help - Gives a help GUI 
