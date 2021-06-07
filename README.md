@@ -41,4 +41,4 @@ a zombie skull.
 # Teams
 All owner exclusive things are bypassed if the player is on a team owned by the owner of the object they are interacting with.
 
-- /team help - Gives a help GUI 
+- /team help - Gives a help GUI on the command
